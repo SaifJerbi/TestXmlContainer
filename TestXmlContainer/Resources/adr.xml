@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+    <address>
+		<city>1 Some City</city>
+        <street>1 Some Street</street>
+    </address>
+    <address>
+		<city>2 Another City</city>
+        <street>2 Another Road</street>
+    </address>
+    <address>
+		<city>3 Last City</city>
+        <street>3 Last Road</street>
+    </address>
+</addresses>
