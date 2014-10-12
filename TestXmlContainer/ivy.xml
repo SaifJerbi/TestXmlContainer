@@ -20,7 +20,7 @@
 	
 	<dependencies defaultconf="default" defaultconfmapping="default->default">
 	<!--The XmlContainer Vaadin addon--> 
-	<dependency org="com.vaadin.tunis.saif.xmlcontainer" name="XmlContainer" rev="1.0.0" />
+	<dependency org="com.vaadin.tunis.saif.xmlcontainer" name="XmlContainer" rev="1.1.1" />
 	
 		<!-- The core server part of Vaadin -->
 		<dependency org="com.vaadin" name="vaadin-server" rev="&vaadin.version;" />

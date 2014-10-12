@@ -1,9 +1,11 @@
 package org.vaadin.tunis.saif.testxmlcontainer;
 
+import java.io.Serializable;
+
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
-public class Address {
+public class Address implements Serializable{
 
 	private String city;
 
