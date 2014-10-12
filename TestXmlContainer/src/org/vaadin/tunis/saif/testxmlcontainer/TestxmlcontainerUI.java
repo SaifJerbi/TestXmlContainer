@@ -2,6 +2,8 @@ package org.vaadin.tunis.saif.testxmlcontainer;
 
 import javax.servlet.annotation.WebServlet;
 
+import org.vaadin.tunis.saif.xmlcontainer.XMLContainer;
+
 import com.vaadin.annotations.Theme;
 import com.vaadin.annotations.VaadinServletConfiguration;
 import com.vaadin.server.VaadinRequest;
@@ -9,8 +11,6 @@ import com.vaadin.server.VaadinServlet;
 import com.vaadin.ui.Table;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
-import org.vaadin.tunis.saif.*;
-import org.vaadin.tunis.saif.xmlcontainer.XMLContainer;
 
 @SuppressWarnings("serial")
 @Theme("testxmlcontainer")
